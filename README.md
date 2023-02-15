@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaomh225
-- a master student in plant ecology and a new learner in bioinformatics
+- a PhD student in plant ecology and a new learner in bioinformatics
 - the tools or projects like R, Python, Transcriptome sequencing data analysis, linux and so on in learning step by step
 - thx
 
