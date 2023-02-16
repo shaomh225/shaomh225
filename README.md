@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @shaomh225
-- a PhD student in plant ecology and a new learner in bioinformatics
-- the tools or projects like R, Python, Transcriptome sequencing data analysis, linux and so on in learning step by step
+- 👋 Hi, I’m Shao.Minghao@shaomh225
+- a PhD student in Chinese Academy of Sciences, a new learner in bioinformatics, fosusing on desert plant ecology.
+- the tools or projects like R, Python, Transcriptome sequencing data analysis, linux and so on are in learning step by step.
 - thx
+- if you want to contact with me, you can send email to 'shaominghao20@mails.ucas.ac.cn'
 
 <!---
 shaomh225/shaomh225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
